@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Practice Site</title>
+</head>
+<body>
+  <h1>Welcome to My Test Website</h1>
+  <p>This is for pentesting practice</p>
+</body>
+</html>
